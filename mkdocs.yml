@@ -1,6 +1,7 @@
 site_name: Virtual Channel SDK for Citrix Receiver for Chrome 2.6
 site_description: Documentation for the Virtual Channel SDK for Citrix Receiver for Chrome 2.6
 site_title: Developer Docs
+site_url: https://developer-docs.citrix.com
 
 # Copyright
 copyright: 'Copyright &copy; 1999-2019 Citrix Systems, Inc. All rights reserved. '
@@ -69,3 +70,4 @@ nav:
  - Namespaces:
    - receiver: namespace-receiver.md
  - Global: global.md
+ - Questions?: https://discussions.citrix.com/forum/1385-citrix-developer-exchange/
